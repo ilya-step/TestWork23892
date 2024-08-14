@@ -1,0 +1,14 @@
+/* Theme Name: Storefront Child
+ * Author: Ilya Stepanov
+ * Template: storefront
+ * Version: 1.0.0
+ */
+
+.city-table-container {
+	margin-bottom: 80px;
+}
+
+.city-table-container #city_search {
+	width: 100%;
+	margin-bottom: 20px;
+}
